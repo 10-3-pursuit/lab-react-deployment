@@ -18,7 +18,7 @@ This lab is to give you practice learning to deploy an application as well as to
 
 1. Paste the link in the Parentheses of the `[MY LIVE SITE URL]()` portion:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](https://main--curious-narwhal-7ccddb.netlify.app/)
 
 ## Instructions
 
