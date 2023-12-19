@@ -18,7 +18,9 @@ This lab is to give you practice learning to deploy an application as well as to
 
 1. Paste the link in the Parentheses of the `[MY LIVE SITE URL]()` portion:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](https://main--stellular-basbousa-47e999.netlify.app/)
+
+- [MY LIVE SITE birds URL](https://calm-axolotl-eee7a1.netlify.app/)
 
 ## Instructions
 
