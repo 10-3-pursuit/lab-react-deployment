@@ -18,7 +18,7 @@ This lab is to give you practice learning to deploy an application as well as to
 
 1. Paste the link in the Parentheses of the `[MY LIVE SITE URL]()` portion:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](https://melodious-platypus-9b6d3e.netlify.app/)
 
 ## Instructions
 
